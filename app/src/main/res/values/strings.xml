@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">KBOX</string>
+    <string name="key_sp">normal_config</string>
+
+    <string name="home">首页</string>
+
+    <string name="device">设备</string>
+    <string name="edit">编辑</string>
+    <string name="setting">设置</string>
+    <string name="pic">设备图标</string>
+
+    <string name="scene">场景模式</string>
+    <string name="version">版本</string>
+
+
+    <string name="Name">名字</string>
+    <string name="name">名字</string>
+
+    <string name="Icon">图标</string>
+    <string name="icon">图标</string>
+
+    <string name="again">再按一次退出.</string>
+
+    <string name="name_not_empty">名称不能为空!</string>
+
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+
+    <string name="Message">消息</string>
+    <string name="message_delete">是否删除该设备?</string>
+
+    <string name="add_already">请勿重复添加该设备.</string>
+
+
+    <string name="ip_input">请输入IP地址.</string>
+    <string name="port_input">请输入端口号.</string>
+
+    <string name="ip_alert">请输入有效的IP地址.</string>
+    <string name="port_alert">请输入有效的端口号.</string>
+    <string name="address_alert">地址无效.</string>
+
+    <string name="connect_fail">连接失败</string>
+    <string name="ui_fail">UI线程不能发送数据.</string>
+    <string name="ui_fail2">UI线程不能建立连接.</string>
+
+</resources>

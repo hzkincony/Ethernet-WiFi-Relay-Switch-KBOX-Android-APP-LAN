@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel">
+        <item>2路</item>
+        <item>4路</item>
+        <item>8路</item>
+        <item>16路</item>
+        <item>32路</item>
+    </string-array>
+</resources>
